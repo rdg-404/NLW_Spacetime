@@ -1,5 +1,4 @@
-# NLW_Spacetime
-Desenvolvimento de uma aplicação de listagens de memória com login do GitHub
+
 
 
 <h1 align="center">NLW Spacetime (WEB)</h1>
