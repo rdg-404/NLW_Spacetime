@@ -135,5 +135,7 @@ Aplicação onde você pode adicionar suas memórias favoritas, além disso, faz
 - Zod
 
 
+Desenvolvido duante a semana NLW da [Rocketseat](https://www.rocketseat.com.br/?utm_source=google&utm_medium=cpc&utm_campaign=lead&utm_term=perpetuo&utm_content=institucional-lead-home-texto-lead-brandkws-none-none-institucional-none-none-br-google&gclid=CjwKCAjwpayjBhAnEiwA-7ena-Pl5Vp7-qaqwfmgeSJyDWfOM8juDcw2-Gd-3b9c_vLuLLAcOVYbdRoC5zEQAvD_BwE)
+
 
 
