@@ -29,16 +29,16 @@ Aplicação onde você pode adicionar suas memórias favoritas, além disso, faz
 ## Versão Web </br></br>
 <h3 align="center">Página inicial</h3> </br>
 
-<img src="./src/assets/tela01.png"/>
+<img src="./assets/tela01.png"/>
 
 <h3 align="center">Efetuado login pelo GitHub</h3> </br>
 
-<div align="center"><img src="./src/assets/tela03.png"/></div>
+<div align="center"><img src="./assets/tela03.png"/></div>
 
 
 <h3 align="center">Tela de listagem das memórias adicionadas</h3> </br>
 
-<div align="center"><img src="./src/assets/tela02.png"/></div>
+<div align="center"><img src="./assets/tela02.png"/></div>
 
 
 
@@ -46,16 +46,16 @@ Aplicação onde você pode adicionar suas memórias favoritas, além disso, faz
 ## Versão Mobile </br></br>
 <h3 align="center">Tela de login (Página inícial)</h3> </br></br>
 
-<img src="./src/assets/mobile01.jpg"/>
+<img src="./assets/mobile01.jpg"/>
 
 <h3 align="center">Adicionar memória</h3> </br></br>
 
-<div align="center"><img src="./src/assets/mobile02.jpg"/></div>
+<div align="center"><img src="./assets/mobile02.jpg"/></div>
 
 
 <h3 align="center">Tela de listagem das memórias adicionadas</h3> </br></br>
 
-<div align="center"><img src="./src/assets/mobile03.jpg"/></div>
+<div align="center"><img src="./assets/mobile03.jpg"/></div>
 
 
 <br><br>
