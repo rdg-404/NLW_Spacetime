@@ -46,16 +46,17 @@ Aplicação onde você pode adicionar suas memórias favoritas, além disso, faz
 ## Versão Mobile </br></br>
 <h3 align="center">Tela de login (Página inícial)</h3> </br></br>
 
-<img src="./assets/mobile01.jpg"/>
-
-<h3 align="center">Adicionar memória</h3> </br></br>
-
-<div align="center"><img src="./assets/mobile02.jpg"/></div>
+<div align="center"><img src="./assets/mobile01.jpg" width="250"/></div>
 
 
-<h3 align="center">Tela de listagem das memórias adicionadas</h3> </br></br>
+</br></br></br><h3 align="center">Adicionar memória</h3> 
 
-<div align="center"><img src="./assets/mobile03.jpg"/></div>
+<div align="center"><img src="./assets/mobile02.jpg"  width="250"/></div>
+
+
+</br></br></br></br><h3 align="center">Tela de listagem das memórias adicionadas</h3> </br>
+
+<div align="center"><img src="./assets/mobile03.jpg" width="250"/></div>
 
 
 <br><br>
